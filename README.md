@@ -86,5 +86,6 @@ MIT License – bebas digunakan dan dimodifikasi
 ## 👨‍💻 Penulis
 
 **Ridho Muhammad Wahid**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ridho-muhammad-wahid-b50761344/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ridho-muhammad-wahid-b50761344/)
+- 🌏 [Instagram](https://www.instagram.com/ridhoyaka_/)
 - 📫 ridhoyaka999@gmail.com
