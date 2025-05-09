@@ -57,6 +57,8 @@ g++ -std=c++11 -o speedtest speedtestbeta.cpp
 
 ## 🖥️ Contoh Output
 
+![Hasil Tools](assets/speedtest-beta.png)
+
 ---
 
 ## 📌 Catatan
